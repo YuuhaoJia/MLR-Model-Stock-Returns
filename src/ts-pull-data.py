@@ -10,7 +10,7 @@ import os
 import pandas as pd
 import yfinance as yf
 
-ticker = 'TSLA' #Change to desired stock ticker
+ticker = 'AAPL' #Change to desired stock ticker
 sdate = dt.datetime(2010, 1, 1)
 df = yf.download(ticker, start = sdate)
 df = df.resample('QS').mean()
