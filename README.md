@@ -54,7 +54,22 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
 #### Time series plot of average quarterly price
 
-#### Checking validility of model assumptions (normal errors, independence, constant variance)
+#### Checking fit + validility of model assumptions (normal errors, independence, constant variance)
+
+![image](https://user-images.githubusercontent.com/112993711/189504277-598f7ffb-4415-4a5e-9ed7-9abe1fa107d5.png)
+
+![mlrp9](https://user-images.githubusercontent.com/112993711/189504323-ab1835a7-0d63-4b3e-a2e0-3972522d0269.png)
+
+![mlrp10](https://user-images.githubusercontent.com/112993711/189504325-43bb9305-d6a5-4fbf-8612-a1b0e7133957.png)
+
+![mlrp11](https://user-images.githubusercontent.com/112993711/189504328-8d438d91-a8c4-4115-9fff-8dc08d715c43.png)
+
+![mlrp12](https://user-images.githubusercontent.com/112993711/189504330-e8e6d556-dc86-44ec-91ff-af9d0f1682f5.png)
+
+#### Determining addition of trend component (none vs linear vs **quadratic**)
+
+
+
 
 
 
