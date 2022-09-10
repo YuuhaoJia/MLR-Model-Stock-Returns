@@ -107,7 +107,6 @@ adjclose.lm <- ml_model(dataset, best_transform)
 #
 # adjclose.lm <-
 
-
 outliers_leverage_influential <- function(lm) {
   #To identify outliers (|di| > 2.5)
   
