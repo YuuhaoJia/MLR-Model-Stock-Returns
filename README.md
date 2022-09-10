@@ -32,6 +32,31 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
 ![image](https://user-images.githubusercontent.com/112993711/189502755-dbbd0eab-15a9-42fb-94f9-1c928cd9dace.png)
 
+#### Model selection using Mallows' C_p criteria (in this case, model 9 is the best fitting, and thus it is utilized for the remaining analysis)
+
+![image](https://user-images.githubusercontent.com/112993711/189502803-363c50be-2c2e-430a-b037-6627f87ae4fb.png)
+
+#### Identifying outliers (|studentized residual| > 2.5)
+
+![mlrp5](https://user-images.githubusercontent.com/112993711/189503867-70c8c227-37f5-475e-b577-0840d7406dd7.png)
+
+#### Identifying high leverage points 
+
+![mlrp6](https://user-images.githubusercontent.com/112993711/189503920-f28b1eef-2468-4026-b1dc-8dc04b75fa96.png)
+
+#### Identifying influential points (Cook's distance >= 1)
+
+![mlrp7](https://user-images.githubusercontent.com/112993711/189503960-b8f1a1ed-6657-4445-b7d0-3559f92dbf79.png)
+
+# Demo of Time Series Model
+
+Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
+
+#### Time series plot of average quarterly price
+
+#### Checking validility of model assumptions (normal errors, independence, constant variance)
+
+
 
 
 
