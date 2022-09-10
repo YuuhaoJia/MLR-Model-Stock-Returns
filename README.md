@@ -68,15 +68,26 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
 #### Determining addition of trend component (none vs linear vs **quadratic**)
 
+![image](https://user-images.githubusercontent.com/112993711/189504403-048a94d1-a775-4452-8a57-cc810517e817.png)
 
+![mlrp13](https://user-images.githubusercontent.com/112993711/189504444-d5e48fef-5618-4205-a42a-a3b0b1a1039f.png)
 
+![mlrp14](https://user-images.githubusercontent.com/112993711/189504445-0f9af48a-a010-4c12-9722-aa2abf0260c1.png)
 
+![mlrp15](https://user-images.githubusercontent.com/112993711/189504448-1f52b460-0696-4994-af42-725dd67f7d5e.png)
 
+#### Durbin-Watson Test for Positive Lag-1 Autocorrelation
 
+![image](https://user-images.githubusercontent.com/112993711/189504481-ab229bcc-ee43-4910-ad69-1991d31ebe5f.png)
 
+#### 4-year forecast using model variables
 
+![mlrp16](https://user-images.githubusercontent.com/112993711/189504497-af0e4f64-d458-4eaf-b194-24b41cd68528.png)
 
+# Contact
 
+Yuhao Jia - yuhaoj10@gmail.com
 
+Double Degree BMath & BBA 2025 Candidate
 
-
+University of Waterloo 
