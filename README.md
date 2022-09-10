@@ -78,7 +78,7 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
 #### Durbin-Watson Test for Positive Lag-1 Autocorrelation
 
-![image](https://user-images.githubusercontent.com/112993711/189504481-ab229bcc-ee43-4910-ad69-1991d31ebe5f.png)
+![image](https://user-images.githubusercontent.com/112993711/189504528-c10f2102-cf40-4b25-af87-ceef84711fef.png)
 
 #### 4-year forecast using model variables
 
