@@ -19,4 +19,6 @@ Pulls historical data for a user specified stock ticker and models returns as th
 
 # Demo
 
-Note: Demo done using Tesla ('TSLA') stock ticker
+Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
+
+
