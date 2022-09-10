@@ -10,12 +10,12 @@ library(glue)
 
 setwd('C:/Users/User/Documents') #Sets working directory to documents 
 
-file <- 'Raw TSLA data for MLRTS.xlsx' #Change to file with appropriate ticker
+file <- 'Raw AAPL data for MLRTS.xlsx' #Change to file with appropriate ticker
 dataset <- read_excel(file)
 dataset <- na.omit(dataset)
 
 avg_quarterly_price <- dataset$'Adj Close'
-dates <- seq(as.Date('2010-04-01'), as.Date('2022-07-01'), by = '3 month') - 1 #Generates series of dates from Beg. of Q1 2010 to End of Q2 2022
+dates <- seq(as.Date('2010-01-01'), as.Date('2022-07-01'), by = '3 month') - 1 #Generates series of dates from Beg. of Q1 2010 to End of Q2 2022
 
 plot_timeseries <- function(dataset, dates){
   ts_data <- data.frame(dataset, dates)
