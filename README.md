@@ -17,7 +17,7 @@ Pulls historical data for a user specified stock ticker and models returns as th
   * Durbin-Watson test
   * Predicted values
 
-# Demo
+# Demo of Multiple Linear Regression Model
 
 Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
@@ -27,6 +27,11 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 ![mlrp2](https://user-images.githubusercontent.com/112993711/189502390-9e68553f-37b1-4334-a5a7-14cb33398b6d.png)
 ![mlrp3](https://user-images.githubusercontent.com/112993711/189502394-ee9b3335-65c3-48db-b99c-c323d3532b48.png)
 ![mlrp4](https://user-images.githubusercontent.com/112993711/189502395-670ebb2e-1492-4e92-a95a-7ed728a02da2.png)
+
+#### Model selection using adjusted r-squared criteria (in this case, models 9 and 11 are the best fitting)
+
+![image](https://user-images.githubusercontent.com/112993711/189502755-dbbd0eab-15a9-42fb-94f9-1c928cd9dace.png)
+
 
 
 
