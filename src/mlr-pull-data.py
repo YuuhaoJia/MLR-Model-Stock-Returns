@@ -32,7 +32,6 @@ lo_adjclosing = df2['Adj Close'].tolist()
 df2 = df2.drop(['Open','High', 'Low', 'Volume', 'Close'],axis=1)
 df2 = df2.drop([df2.index[0], df2.index[1], df2.index[2], df2.index[3], df2.index[4]])
 df2 = df2.rename(columns = {'Adj Close':'S&P 500 Close'})
-print(df2)
 df2.reset_index(drop=True, inplace=True)
 
 df3 = yf.download('SPY', start = sdate - datetime.timedelta(days = 50))
