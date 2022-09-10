@@ -21,7 +21,7 @@ Pulls historical data for a user specified stock ticker and models returns as th
 
 Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
-Determining whether a transformation (log, sqrt) of the response data is appropriate (in this case, neither improves the fit of the model (or the satisfaction of model assumptions), as seen below)
+#### Determining whether a transformation (log, sqrt) of the response data is appropriate (in this case, neither improves the fit of the model (or the satisfaction of model assumptions), as seen below)
 
 ![mlrp1](https://user-images.githubusercontent.com/112993711/189502384-83e47b88-43d6-4799-b2b3-547df0b65c81.png)
 ![mlrp2](https://user-images.githubusercontent.com/112993711/189502390-9e68553f-37b1-4334-a5a7-14cb33398b6d.png)
