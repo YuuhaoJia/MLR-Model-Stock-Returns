@@ -7,5 +7,13 @@ Pulls historical data for a user specified stock ticker and models returns as th
 
 ### Key themes/tags
 * Multiple linear regression
-  * Example 
-* Item two
+  * Model selection (adjusted r-squared, Mallows' C_p
+  * ANOVA
+  * Outlier analysis (studentized residuals)
+  * Leverage
+  * Influential points (Cook's Distance)
+  * Confidence/prediction intervals
+* Time series regression
+  * Durbin-Watson test
+  * Predicted values
+
