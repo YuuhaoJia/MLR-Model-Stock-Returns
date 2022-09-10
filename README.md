@@ -7,7 +7,7 @@ Pulls historical data for a user specified stock ticker and models returns as th
 
 ### Key themes/tags
 * Multiple linear regression
-  * Model selection (adjusted r-squared, Mallows' C_p
+  * Model selection (adjusted r-squared, Mallows' C_p)
   * ANOVA
   * Outlier analysis (studentized residuals)
   * Leverage
