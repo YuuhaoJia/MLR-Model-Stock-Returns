@@ -51,7 +51,7 @@ adj_close_seasonal.lm <- lm(avg_quarterly_price ~ Q)
 seasonal_component_analysis(adj_close_seasonal.lm)
 
 trend_component <- function(dataset){
-  t <- c(1:50)
+  t <- c(1:51)
   adj_close_linear.lm <- lm(dataset ~ Q + t)
   
   print(summary(adj_close_linear.lm))
