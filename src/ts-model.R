@@ -25,7 +25,7 @@ plot_timeseries <- function(dataset, dates){
 
 plot_timeseries(avg_quarterly_price, dates)
 
-Q <- c(rep(c('1','2','3','4'),length = 50))
+Q <- c(rep(c('1','2','3','4'), length = 51))
 
 seasonal_component_analysis <- function(slm){
   print(summary(slm))
