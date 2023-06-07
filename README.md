@@ -88,6 +88,6 @@ Note: Demo done using NASDAQ: TSLA (Tesla) stock ticker
 
 Yuhao Jia - yuhaoj10@gmail.com
 
-Double Degree BMath & BBA 2025 Candidate
+Bachelor of Computer Science (BCS) 2025 Candidate
 
 University of Waterloo 
